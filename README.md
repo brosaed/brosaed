@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brosaed
-- 👀 I’m interested in coding from web development to application development 
-- 🌱 I’m currently seeking for development oppurtunity 
+- 👀 I’m interested in software development
+- 🌱 I’m currently seeking for development Post
 - 💞️ I’m looking to collaborate on big web development projects from front-end to Back-end
 - 📫 you can reach me saedarab004@gmail.com
 
